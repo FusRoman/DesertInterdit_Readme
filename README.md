@@ -50,9 +50,6 @@ L'île interdite est le projet de Programmation Objet et Génie Logiciel (POGL) 
     
 ![ecran_jeu](visual/vue_jeu_en_cours_de_partie.png)
 
-* [Diagramme de classe](visual/class_diagram.png) du projet
-  ![diagram_class](visual/class_diagram.png)
-
 ## Installation
 Cloner le dépôt et exécuter le grâce à [Intellij](https://www.jetbrains.com/fr-fr/idea/).
 
