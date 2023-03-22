@@ -56,7 +56,7 @@ java -jar DesertInterdit.jar
 ![ecran_jeu](visual/vue_jeu_en_cours_de_partie.png)
 
 ## Installation
-Cloner le dépôt et exécuter le grâce à [Intellij](https://www.jetbrains.com/fr-fr/idea/).
+Cloner le dépôt et exécuter le .jar
 
 ## Support
 GitLab issues
