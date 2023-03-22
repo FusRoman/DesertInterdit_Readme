@@ -3,6 +3,11 @@
 ## Description
 L'île interdite est le projet de Programmation Objet et Génie Logiciel (POGL) pour les L2 Info, Info-Math, MNSI de l'université Paris-Saclay.
 
+## Lancement
+```console
+java -jar DesertInterdit.jar
+```
+
 ## Visuals
 * Au lancement du jeu, cliquer sur le bouton Jouer.
 ![lancement_jeu](visual/lancement.png)
