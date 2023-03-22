@@ -59,7 +59,7 @@ java -jar DesertInterdit.jar
 Cloner le dépôt et exécuter le .jar
 
 ## Support
-GitLab issues
+Post GitHub issues
 
 ## Roadmap
 No roadmap
