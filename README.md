@@ -1,7 +1,7 @@
-# Le désert interdite
+# Le désert interdit
 
 ## Description
-Le désert interdite est le projet de Programmation Objet et Génie Logiciel (POGL) pour les L2 Info, Info-Math, MNSI de l'université Paris-Saclay.
+Le désert interdit est le projet de Programmation Objet et Génie Logiciel (POGL) pour les L2 Info, Info-Math, MNSI de l'université Paris-Saclay.
 
 ## Lancement
 ```console
