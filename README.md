@@ -1,7 +1,7 @@
-# L'île interdite
+# Le désert interdite
 
 ## Description
-L'île interdite est le projet de Programmation Objet et Génie Logiciel (POGL) pour les L2 Info, Info-Math, MNSI de l'université Paris-Saclay.
+Le désert interdite est le projet de Programmation Objet et Génie Logiciel (POGL) pour les L2 Info, Info-Math, MNSI de l'université Paris-Saclay.
 
 ## Lancement
 ```console
